@@ -8,12 +8,14 @@
 
 ## LINE Developer
 
-1. **First, register for a LINE Developer account.
+1. **First, go to [line developer](https://developers.line.biz/en/?status=success) and register for a LINE Developer account.**
    
-2. **Create a provider based on the Messaging API.
+2. **Create a provider based on the Messaging API.**
    
-3. Now, you can converse with the default bot in the LINE app using the QR code found in the 'Messaging API' option.
+3. **Now, you can converse with the default bot in the LINE app using the QR code found in the 'Messaging API' option.**
    
-4. In the 'Messaging API' option, locate the 'Webhook settings' and enable the 'Use webhook' option.
+4. **In the 'Messaging API' option, locate the 'Webhook settings' and enable the 'Use webhook' option.**
    
-5. Similarly, in the 'Messaging API' option, find the Channel access token and remember this token, as it will be used later.
+5. **Similarly, in the 'Messaging API' option, find the Channel access token and remember this token, as it will be used later.**
+
+## Chat-gpt API
