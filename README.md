@@ -19,8 +19,11 @@
 ## Chat-gpt API
 
 1. **Log in or register for an [OpenAI](https://openai.com/blog/openai-api) account.**
+ 
 2. **After logging in, find the 'API Keys' option in the menu in the top left corner.**
+   
 3. **Create a new Secret Key and remember this key. This key will only be displayed once; if you miss it, you can delete it and create another one.**
+   
 4. **Ensure you have enough credits to use this API. If you don't have credits, you can still find the 'Settings' option in the top left corner menu, go to 'Billing', and purchase sufficient credits there.**
 
 ## Google Colud Function
@@ -38,3 +41,12 @@
 6. **Under the 'Runtime, build connections and security settings', find 'Runtime environment variables'. Add two variables: in the Name1 field, enter API_KEY and in Value1, input the OpenAI Secret Key you copied earlier; in the Name2 field, enter LINE_ACCESS_TOKEN and in Value2, input the Channel access token you copied earlier.**
     
 7. **After filling in all the details, click on ADD TRIGGER to create a new function.**
+
+8. **You will see two files, main.py and requirement.txt. Copy the corresponding code from this repository. Be aware that the model and some API endpoints may change over time, so please pay attention to the official documentation.**
+
+'''
+* https://api.openai.com/v1/chat/completions
+
+* https://api.line.me/v2/bot/message/reply
+'''
+9. 我
