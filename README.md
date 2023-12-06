@@ -14,7 +14,7 @@
    
 4. **In the 'Messaging API' option, locate the 'Webhook settings' and enable the 'Use webhook' option.**
    
-5. **Similarly, in the 'Messaging API' option, find the Channel access token and remember this token, as it will be used later.**
+5. **In the 'Messaging API' option, find the Channel access token and remember this token, as it will be used later.**
 
 ## Chat-gpt API
 
