@@ -49,14 +49,14 @@
 9. **You will see two files, main.py and requirement.txt. Copy the corresponding code from this repository. Be aware that the model and the API endpoints below may change over time, so please pay attention to the official documentation.**
 
 ```
-* https://api.openai.com/v1/chat/completions
+https://api.openai.com/v1/chat/completions
 
-* gpt-3.5-turbo-1106
+gpt-3.5-turbo-1106
 
-* https://api.line.me/v2/bot/message/reply
+https://api.line.me/v2/bot/message/reply
 ```
 
 9. **Next, click on the deploy option and copy the URL that is generated.**
     
-10. **Return to the LINE Developer page, and in the Webhook settings, paste the URL you just generated into the Webhook URL field. This is the final step, and now your LINE bot should be operational.**
+10. **Return to the LINE Developer page, find 'Messaging API' and in the 'Webhook settings', paste the URL you just generated into the 'Webhook URL'. This is the final step, and now your LINE bot should be operational.**
 
