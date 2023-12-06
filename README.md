@@ -4,6 +4,8 @@
   
 <h4>Additionally, the functions are deployed on Google Cloud Functions, eliminating the need for self-hosted servers.</h4>
 
+![Example Image](example.jpg)
+
 ## LINE Developer
 
 1. **First, go to [line developer](https://developers.line.biz/en/?status=success) and register for a LINE Developer account.**
