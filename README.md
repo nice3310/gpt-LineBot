@@ -1,6 +1,7 @@
 # gpt-LineBot
 <h2>
-The project involves implementing an intelligent LINE chatbot that integrates the OpenAI API with LINE developer tools. Additionally, the functions are deployed on Google Cloud Functions, eliminating the need for self-hosted servers.</h2>
+The project involves implementing an intelligent LINE chatbot that integrates the OpenAI API with LINE developer tools. 
+Additionally, the functions are deployed on Google Cloud Functions, eliminating the need for self-hosted servers.</h2>
 
 # Functionality
 
