@@ -58,7 +58,7 @@ gpt-3.5-turbo-1106
 https://api.line.me/v2/bot/message/reply
 ```
 
-9. **Next, click on the deploy option and copy the URL that is generated.**
+9. **Next, click on the 'deploy' option and copy the URL that is generated.**
     
-10. **Return to the LINE Developer page, find 'Messaging API' and in the 'Webhook settings', paste the URL you just generated into the 'Webhook URL'. This is the final step, and now your LINE bot should be operational.**
+10. **Return to the LINE Developer page, find 'Messaging API' and the 'Webhook settings', paste the URL you just generated into the 'Webhook URL'. This is the final step, and now your LINE bot should be operational.**
 
