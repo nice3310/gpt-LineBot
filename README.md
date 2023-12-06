@@ -42,10 +42,12 @@
     
 7. **After filling in all the details, click on ADD TRIGGER to create a new function.**
 
-8. **You will see two files, main.py and requirement.txt. Copy the corresponding code from this repository. Be aware that the model and some API endpoints may change over time, so please pay attention to the official documentation.**
+8. **You will see two files, main.py and requirement.txt. Copy the corresponding code from this repository. Be aware that the model and the API endpoints below may change over time, so please pay attention to the official documentation.**
 
 '''
 * https://api.openai.com/v1/chat/completions
+
+* gpt-3.5-turbo-1106
 
 * https://api.line.me/v2/bot/message/reply
 '''
