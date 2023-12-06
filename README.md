@@ -4,7 +4,7 @@
   
 <h4>Additionally, the functions are deployed on Google Cloud Functions, eliminating the need for self-hosted servers.</h4>
 
-![Example Image](example.jpg)
+<img src="(example.jpg" width="300" height="200">
 
 ## LINE Developer
 
