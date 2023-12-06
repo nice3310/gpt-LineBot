@@ -38,11 +38,15 @@
  
 5. **Make some basic settings for the function, and remember to check the 'Allow unauthenticated invocations' option.**
 
-6. **Under the 'Runtime, build connections and security settings', find 'Runtime environment variables'. Add two variables: in the Name1 field, enter API_KEY and in Value1, input the OpenAI Secret Key you copied earlier; in the Name2 field, enter LINE_ACCESS_TOKEN and in Value2, input the Channel access token you copied earlier.**
-    
-7. **After filling in all the details, click on ADD TRIGGER to create a new function.**
+6. **Under the 'Runtime, build connections and security settings', find 'Runtime environment variables', we need to Add two variables:**
 
-8. **You will see two files, main.py and requirement.txt. Copy the corresponding code from this repository. Be aware that the model and the API endpoints below may change over time, so please pay attention to the official documentation.**
+   **in the Name1 field, enter API_KEY and in Value1, input the OpenAI Secret Key you copied earlier;**
+
+   **in the Name2 field, enter LINE_ACCESS_TOKEN and in Value2, input the Channel access token you copied earlier.**
+    
+8. **After filling in all the details, click on ADD TRIGGER to create a new function.**
+
+9. **You will see two files, main.py and requirement.txt. Copy the corresponding code from this repository. Be aware that the model and the API endpoints below may change over time, so please pay attention to the official documentation.**
 
 ```
 * https://api.openai.com/v1/chat/completions
